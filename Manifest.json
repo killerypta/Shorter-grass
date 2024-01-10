@@ -1,5 +1,5 @@
 {
-	"format_version": 1,
+	"format_version": 2,
 	"header": {
 		"description": "Улучшает видимость в густой траве за счет уменьшения размера маленькой и высокой травы на 30%",
 		"name": "Shorter grass",
