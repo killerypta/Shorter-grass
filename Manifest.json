@@ -1,7 +1,7 @@
 {
 	"format_version": 1,
 	"header": {
-		"description": "Уменьшает размер маленькой и высокой травы на 30%",
+		"description": "Улучшает видимость в густой траве за счет уменьшения размера маленькой и высокой травы на 30%",
 		"name": "Shorter grass",
 		"uuid": "691e3c38-867b-4058-b983-26a6cac7c06a",
 		"version": [1, 0, 0],
@@ -9,14 +9,10 @@
 	},
 	"modules": [
 		{
-			"description": "Уменьшает размер маленькой и высокой травы на 30%",
+			"description": "Улучшает видимость в густой траве за счет уменьшения размера маленькой и высокой травы на 30%",
 			"type": "resources",
 			"uuid": "39e2cf2c-0c78-4a60-8cbe-38955508fb8f",
-			"version": [1, 0, 0],
-			"metadata": {
-				"authors": ["killerypta"],
-				"url": "https://github.com/killerypta/Shorter-grass"
-			}
+			"version": [1, 0, 0]
 		}
 	],
 	"metadata": {
